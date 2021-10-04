@@ -93,7 +93,7 @@ void parse_file(const std::string &filename)
 
 int main()
 {
-    parse_file("/home/suraj/Downloads/live_c_unity.veg");
+    parse_file("live_c_unity.veg");
 
 
 
